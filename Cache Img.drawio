@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T01:25:22.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="HQjgzLjJrxKDTkUgAROU" version="15.8.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-30T01:31:46.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="0ICls5OQ0RZ-aqy6L5ar" version="15.8.6" type="github" pages="3">
   <diagram id="VOGbYkKHU-DiDlwHHKmW" name="Page-1">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,7 +213,7 @@
         <mxCell id="0TGgfbzttGYOGwzu3rh_-4" value="资源在使用时要求强一致？" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#c9d6ff;" vertex="1" parent="0TGgfbzttGYOGwzu3rh_-1">
           <mxGeometry x="400" y="140" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0TGgfbzttGYOGwzu3rh_-5" value="可被复用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe8c6;" vertex="1" parent="0TGgfbzttGYOGwzu3rh_-1">
+        <mxCell id="0TGgfbzttGYOGwzu3rh_-5" value="no-store" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe8c6;" vertex="1" parent="0TGgfbzttGYOGwzu3rh_-1">
           <mxGeometry x="170" y="140" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0TGgfbzttGYOGwzu3rh_-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#00994D;" edge="1" parent="0TGgfbzttGYOGwzu3rh_-1" source="0TGgfbzttGYOGwzu3rh_-7" target="0TGgfbzttGYOGwzu3rh_-9">
